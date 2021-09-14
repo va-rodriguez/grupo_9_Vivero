@@ -13,6 +13,8 @@ La temática de Market Place será un vivero, en el cual ofrecera la venta de pl
 
 Me llamo Matias Schammas, tengo 22 años, me gustan los desafios y todo lo que implique el crecimiento personal, desde que me adentré en el mundo de la programación empezé a ver que tiene mucho que ofrecerme y me motiva a seguir ezforzandome.
 
+Mi nombre es Franco Luciano Casiello, tengo 33 años y soy de Rosario. Siempre me intereso mucho todo lo relacionado a la tecnología y la programación no es la excepción.
+
 
 ● Inspiraciones
 

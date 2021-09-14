@@ -11,3 +11,9 @@ Trello: https://trello.com/b/3wNF8Hue/vivero
 ● Integrantes
 
 
+● Inspiraciones
+https://www.higaplantas.com/
+https://tienda.viveromario.com.ar/
+https://viverotesone.com.ar/
+https://viveroverdevida.com.ar/
+https://www.viverokirken.com/

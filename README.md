@@ -12,6 +12,7 @@ Trello: https://trello.com/b/3wNF8Hue/vivero
 
 
 ● Inspiraciones
+
 https://www.higaplantas.com/
 
 https://tienda.viveromario.com.ar/

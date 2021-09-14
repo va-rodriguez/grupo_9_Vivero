@@ -1,5 +1,3 @@
-��# grupo_9_
-
 Url del Repositorio : https://github.com/va-rodriguez/grupo_9_Vivero
 
 

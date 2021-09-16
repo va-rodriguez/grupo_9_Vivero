@@ -6,14 +6,16 @@ Trello: https://trello.com/b/3wNF8Hue/vivero
 ● Descripción general
 
 La temática de Market Place será un vivero, en el cual ofrecera la venta de plantas de interior, exterior, árboles, plantines de estación y macetas.
- Apuntado a todos nuestros clientes, brindando la mejor atención, asesoramiento y venta de una amplia gama de productos exclusivos del rubro. 
+Apuntado a todos nuestros clientes, brindando la mejor atención, asesoramiento y venta de una amplia gama de productos exclusivos del rubro. 
 
 
 ● Integrantes
 
-Me llamo Matias Schammas, tengo 22 años, me gustan los desafios y todo lo que implique el crecimiento personal, desde que me adentré en el mundo de la programación empezé a ver que tiene mucho que ofrecerme y me motiva a seguir ezforzandome.
+Mi nombre es Matias Schammas, tengo 22 años, me gustan los desafios y todo lo que implique el crecimiento personal, desde que me adentré en el mundo de la programación empezé a ver que tiene mucho que ofrecerme y me motiva a seguir esforzandome.
 
-Mi nombre es Franco Luciano Casiello, tengo 33 años y soy de Rosario. Siempre me intereso mucho todo lo relacionado a la tecnología y la programación no es la excepción.
+Mi nombre es Franco Luciano Casiello, tengo 33 años y soy de Rosario. Siempre me interesó mucho todo lo relacionado a la tecnología y la programación no es la excepción.
+
+Mi nombre es Valentin Rodriguez, tengo 30 años y soy cartógrafo. En el último tiempo volví a meterme dentro del mundo de la programación, por lo cual aca estoy, realizando una pagina web que vende plantas.
 
 
 ● Inspiraciones
